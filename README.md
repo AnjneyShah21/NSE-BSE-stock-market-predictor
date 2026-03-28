@@ -1,5 +1,11 @@
 BYTE_BRAIN AI — Stock Intelligence Platform
 
+"NOTE: This project was developed collaboratively during a hackathon.
+Initial development was done directly in VS Code by the team
+Code iterations, UI design, and backend logic were built locally
+GitHub was used primarily to upload the final working version
+Version control was minimal and focused on submission readiness."
+
 BYTE_BRAIN AI is an advanced stock intelligence platform that combines real-time market data, AI-driven predictions, and multi-layer verification to provide actionable insights for traders and investors.
 
 The platform integrates technical analysis, pattern recognition, and AI reasoning to deliver structured predictions, supported by an additional AI verification layer for improved reliability.
@@ -74,13 +80,6 @@ Final validated output is displayed to the user
 ├── proxy.py         # Backend API + AI proxy
 ├── README.md
 🧪 Commit History (Development Process)
-
-This project was developed collaboratively during a hackathon.
-
-Initial development was done directly in VS Code by the team
-Code iterations, UI design, and backend logic were built locally
-GitHub was used primarily to upload the final working version
-Version control was minimal and focused on submission readiness
 
 ⚠️ Disclaimer
 This platform provides AI-generated financial insights for educational and experimental purposes only. It should not be considered financial advice. Always conduct your own research before making investment decisions.
